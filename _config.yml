@@ -1,0 +1,17 @@
+title: "ASaiM: a Galaxy-based framework to analyze raw sequencing data from microbiota"
+description: Poster about ASaiM for the Galaxy Community Conference 2017
+url: "http://research.bebatut.fr/gcc_2017_asaim/"
+github_repository: "https://github.com/bebatut-research/gcc_2017_asaim"
+
+source:       .
+destination:  ./_site
+plugins_dir:  _plugins
+layouts_dir:  _layouts
+includes_dir: _includes
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

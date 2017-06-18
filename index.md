@@ -1,5 +1,6 @@
-ASaiM: a Galaxy-based framework to analyze raw sequencing data from microbiota
-==============
+---
+layout: home
+---
 
 New generation of sequencing platforms coupled to numerous bioinformatics tools has led to rapid technological progress in metagenomics, metatranscriptomics and complex microorganism communities’ studies. Nevertheless, a combination of different bioinformatics tools remains necessary for efficient extraction of useful information in microbiota studies. Modular, accessible and sharable user-friendly tools would greatly improve such studies. We therefore developed ASaiM, an open-source Galaxy-based framework dedicated to microbiota data analyses.
 
